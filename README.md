@@ -1,5 +1,8 @@
 # HALF_ADDER_SUBTRACTOR
 
+## NAME: S ADITYA
+## REG NO: 212223040007
+
 Implementation-of-Half-Adder-and-Half Subtractor-circuit
 
 # AIM:
